@@ -59,7 +59,7 @@
 ### 🚀 Featured Projects
 
 >
-- **[AgroDigital](#)** —An offline-first web platform empowering Ethiopian farmers with instant access to market prices, weather, crop advice, and transport services.
+- **[AGRODIGITAL](#)** —An offline-first web platform empowering Ethiopian farmers with instant access to market prices, weather, crop advice, and transport services.
 
 - **[TO-DO LIST APP](#)** — A professional, interactive To-Do List application designed for productivity. This app allows you to create tasks, track your progress with live statistics, and manage your tasks through editing and deletion easily
 
